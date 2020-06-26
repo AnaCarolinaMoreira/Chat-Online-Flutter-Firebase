@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
   <a href="https://pypi.org/project/pycep-correios/">
-  <img src="https://raw.githubusercontent.com/mstuttgart/pycep-correios/develop/docs/_static/logo.jpg" width="30%"></a>
+  <img src="https://i.imgur.com/1fjwbvG.jpg" width="30%"></a>
   <br>
   Chat Online
   <br>
 </h1>
 
-<h4 align="center">Aplicativo de chat feito em Flutter utilizando FireBAse <i>webservice</i> ViaCep</h4>
+<h4 align="center">Aplicativo de chat feito em Flutter utilizando FireBase</h4>
 
 <p align="center">
   <a href="https://travis-ci.org/mstuttgart/pycep-correios">
@@ -39,10 +39,7 @@
 
 ## Recursos
 
--   Consulta de dados de um endereço a partir do CEP
--   Consulta de intervalo de CEP a partir de um endereço
--   Formatação de CEP
--   Validação de CEP
+- 
 
 ## plugins
 
@@ -53,51 +50,22 @@ Para mais detalhes sobre a PyCEPCorreios, por gentileza, consulte a documentaç�
 
 ## Instalação
 
-O PyCEP Correios pode ser facilmente instalado com o comando a seguir:
-
-```shell
-pip install pycep-correios
-```
-
-Atualmente, a PyCEPCorreios possui suporte para Python 3.5+.
 
 ## Como usar
 
-Consultar o endereço de um CEP é muito simples com o PyCEPCorreios. Veja os exemplos a seguir:
 
-```python
->>> import pycep_correios
-
->>> endereco = pycep_correios.get_address_from_cep('37503130')
->>> print(endereco)
-{
-    'bairro': 'Santo Antônio',
-    'cep': '37503130',
-    'cidade': 'Itajubá',
-    'logradouro': 'Rua Geraldino Campista',
-    'uf': 'MG',
-    'complemento': '- até 214/215',
-}
-```
 
 ## Como contribuir
 
-Deseja participar do desenvolvimento da PyCepCorreios? Torne-se um contribuidor do PyCEPCorreios! Visite a documentação para verificar a *guideline* de contribuição:
-
--   Veja [aqui](https://pycep-correios.readthedocs.io/pt/stable/contributing.html).
 
 ### Aviso de *bugs*, dúvidas e sugestões
 
-Para dúvidas, sugestões e relatórios de *bugs*, por gentileza, crie uma *issue*:
 
--   Issue Tracker: <https://github.com/mstuttgart/pycep-correios/issues>
 
 ### Contribuidores
 
-Agradecimentos aos seguintes contribuidores pelo esforço de fazer a PyCEPCorreios melhor:
 
--   Lista de contribuidores: <https://github.com/mstuttgart/pycep-correios/graphs/contributors>
 
 ## Créditos
 
-Copyright (C) 2016-2020 por Michell Stuttgart
+Copyright (C) 2020 por Ana Carolina
