@@ -34,10 +34,7 @@
 
 ## plugins
 
-Para mais detalhes sobre a PyCEPCorreios, por gentileza, consulte a documentação oficial:
 
--   Documentação online: [docs](https://pycep-correios.readthedocs.io/pt/develop/)
--   Documentação PDF: [download](https://media.readthedocs.org/pdf/pycep-correios/stable/pycep-correios.pdf)
 
 ## Instalação
 
