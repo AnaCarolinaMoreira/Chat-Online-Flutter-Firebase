@@ -16,15 +16,6 @@
   <a href="https://codecov.io/gh/mstuttgart/pycep-correios?branch=develop">
     <img alt="Codecov branch" src="https://img.shields.io/codecov/c/github/mstuttgart/pycep-correios/develop?style=flat-square">
   </a>
-  <a href="https://codeclimate.com/github/mstuttgart/pycep-correios">
-      <img alt="Code Climate maintainability" src="https://img.shields.io/codeclimate/maintainability/mstuttgart/pycep-correios.svg?style=flat-square">
-  </a>
-  <a href="https://pypi.org/project/pycep-correios">
-      <img src="https://img.shields.io/pypi/v/pycep-correios.svg?style=flat-square" alt="Ratings">
-  </a>
-  <a href="https://pypi.org/project/pycep-correios/">
-      <img src="https://img.shields.io/pypi/pyversions/pycep-correios.svg?style=flat-square" alt="Version">
-  </a>
 </p>
 
 <p align="center">
