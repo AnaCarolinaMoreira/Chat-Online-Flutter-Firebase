@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Aplicativo de chat feito em Flutter utilizando FireBase</h4>
+<h4 align="center">Aplicativo de chat criado Flutter utilizando FireBase</h4>
 
 <p align="center">
   <a href="https://travis-ci.org/mstuttgart/pycep-correios">
