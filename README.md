@@ -36,7 +36,9 @@
 O Chat Online pode ser facilmente instalado com o comando a seguir:
 
 - get dependencies 
-- ou
+
+OU
+
 ```shell
  pub get
 ```
