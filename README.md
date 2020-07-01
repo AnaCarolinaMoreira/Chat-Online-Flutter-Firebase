@@ -45,7 +45,7 @@ OU
 
 ## Plugins
 
-versão dos pacotes no pubspec.yaml:
+Versão dos pacotes no pubspec.yaml:
 
 ```shell
   cloud_firestore: ^0.13.0+1
