@@ -22,7 +22,6 @@
   <a href="#instalação">Instalação</a> |
   <a href="#plugins">Plugins</a> |
   <a href="#pré-visualização">Pré-visualização</a> |
-  <a href="#créditos">Créditos</a>
 </p>
 
 
