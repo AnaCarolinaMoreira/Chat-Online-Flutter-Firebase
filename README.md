@@ -11,7 +11,6 @@
 
 <p align="center">
        <img src="https://img.shields.io/github/languages/count/AnaCarolinaMoreira/Chat-Online-Flutter-Firebase?style=flat-square" alt="Version">
-      
        <img src="https://img.shields.io/github/languages/top/AnaCarolinaMoreira/Chat-Online-Flutter-Firebase" alt="Version">
 
  
