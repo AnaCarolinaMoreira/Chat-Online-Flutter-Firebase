@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://i.imgur.com/1fjwbvG.jpg" width="50%"></a>
+  <img src="https://miro.medium.com/max/3840/1*yOZ9E5TTp7sp-TWGBU2hKQ.png" width="50%"></a>
   <br>
  Chat Online Flutter Firebase
   <br>
