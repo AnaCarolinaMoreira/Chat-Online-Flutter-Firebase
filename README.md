@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://i.imgur.com/1fjwbvG.jpg" width="40%"></a>
+  <img src="https://i.imgur.com/1fjwbvG.jpg" width="50%"></a>
   <br>
  Chat_Online_Flutter_Firebase
   <br>
