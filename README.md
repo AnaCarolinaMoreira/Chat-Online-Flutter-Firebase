@@ -3,7 +3,7 @@
   <br>
   <img src="https://i.imgur.com/1fjwbvG.jpg" width="50%"></a>
   <br>
- Chat_Online_Flutter_Firebase
+ Chat Online Flutter Firebase
   <br>
 </h1>
 
@@ -35,13 +35,15 @@
 
 O Chat Online pode ser facilmente instalado com o comando a seguir:
 
+- get dependencies 
+ou
 ```shell
-Pub get
+ pub get
 ```
 
 ## Plugins
 
-Primeiro adicione isso aos seus pacotes pubspec.yaml:
+versão dos pacotes no pubspec.yaml:
 
 ```shell
   cloud_firestore: ^0.13.0+1
@@ -56,7 +58,5 @@ Primeiro adicione isso aos seus pacotes pubspec.yaml:
 
 
 
-## Créditos
 
-Copyright (C) 2020 por Ana
 
