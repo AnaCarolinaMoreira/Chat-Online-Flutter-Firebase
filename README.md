@@ -10,7 +10,8 @@
 <h4 align="center">Aplicativo de bate-papo com Flutter e Firebase</h4>
 
 <p align="center">
-     <img src="https://img.shields.io/appveyor/build/AnaCarolinaMoreira/Chat-Online-Flutter-Firebase" alt="Version">
+  
+
 </p>
 
 <p align="center">
