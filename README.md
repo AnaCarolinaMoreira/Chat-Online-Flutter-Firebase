@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <img src="https://i.imgur.com/1fjwbvG.jpg" width="30%"></a>
+  <img src="https://i.imgur.com/1fjwbvG.jpg" width="40%"></a>
   <br>
- Chat_Online-Firebase_Flutter
+ Chat_Online_Flutter_Firebase
   <br>
 </h1>
 
-<h4 align="center">plicativo de bate-papo com Flutter e Firebase</h4>
+<h4 align="center">Aplicativo de bate-papo com Flutter e Firebase</h4>
 
 <p align="center">
  
@@ -16,8 +16,8 @@
 <p align="center">
   <a href="#recursos">Recursos</a> |
   <a href="#instalação">Instalação</a> |
-  <a href="#como-usar">Plugins</a> |
-  <a href="#como-contribuir">Pré-visualização</a> |
+  <a href="#plugins">Plugins</a> |
+  <a href="#pré-visualização">Pré-visualização</a> |
   <a href="#créditos">Créditos</a>
 </p>
 
@@ -27,6 +27,8 @@
 -  Faça login na Conta do Google.
 -   Converse um a um com outros usuários 
 -   Envie imagens, sticker.
+-   Tire fotos.
+
 
 
 ## Instalação
